@@ -17,8 +17,8 @@ const About = () => {
       <AnimatedBox style={pageAnimation} py={[6, 6, 6, 8]} px={[6, 6, 8, 6, 8, 13]}>
         <h1>Hi. I'm LekoArts!</h1>
         <p>
-          You can visit my <a href="https://www.lekoarts.de/en">website</a> or my other{' '}
-          <a href="https://gatsby-starter-portfolio.netlify.com">Gatsby projects</a>.
+          You can visit my <a href="https://www.nicolas-gras.com">website</a> or my other{' '}
+          <a href="https://www.nicolas-gras.com">Gatsby projects</a>.
         </p>
       </AnimatedBox>
     </Layout>
